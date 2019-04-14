@@ -98,9 +98,9 @@ namespace WeatherApp.Model
             }
         }
 
-        private int iconPhrase;
+        private string iconPhrase;
 
-        public int IconPhrase
+        public string IconPhrase
         {
             get { return iconPhrase; }
             set
